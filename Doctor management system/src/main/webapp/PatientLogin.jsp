@@ -61,7 +61,7 @@ form input {
   outline: none;
 }
 input[type="button"] {
-  width: 320px;
+  width: 280px;
   height: 35px;
   margin-top: 20px;
   border: none;
